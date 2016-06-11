@@ -178,17 +178,4 @@ h4{
   color: yellow;
 }
 
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
-}
 
-.navbar .navbar-collapse {
-  text-align: center;
-
-}
-
-.nav.navbar-nav li a {
-    color: white;
-}
